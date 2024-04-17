@@ -60,6 +60,7 @@ const Hero = () => {
                       </button>
                     </Link>
                   </motion.div> */}
+                  <h1>test</h1>
                 </div>
                 <Image
                   src={item.img}
